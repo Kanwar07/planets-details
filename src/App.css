@@ -1,3 +1,7 @@
+body {
+  font-family: Cursive, Helvetica, sans-serif;
+}
+
 .App {
   text-align: center;
 }
@@ -26,6 +30,24 @@
 
 .App-link {
   color: #61dafb;
+}
+
+body {
+  background-image: linear-gradient(
+    to right top,
+    #989abd,
+    #8e93bd,
+    #828cbd,
+    #7585be,
+    #677ebe,
+    #5b78c0,
+    #4f71c1,
+    #406bc3,
+    #3563c6,
+    #2b5bc8,
+    #2153ca,
+    #1a4acb
+  );
 }
 
 @keyframes App-logo-spin {
